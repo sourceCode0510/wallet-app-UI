@@ -1,0 +1,28 @@
+so in this design we have a black background.
+to card shaped parts.
+and a bottom navigation bar
+
+that's the rough idea.
+
+let's run the default code first.
+it's a really basic design perfect for beginners...
+
+so I won't be using any images or icons of this design.
+we will use the default icons provided in the flutter package.
+and instead of images of people, we will use letters..
+
+- so let's delete everything and start with scratch.
+
+we have three screens here, even though we will implement two it's best practice to at least implement the functionality..
+
+let's create screens.
+now let's move to homescreen.
+
+that takes care of our first screen.
+
+now on to second..
+
+let's access the add_new_card screen from the 'assesment' button for now and we have completed the design.
+
+
+thanks for watching....
